@@ -1,4 +1,4 @@
-"C:\Program Files\Java\jdk1.8.0_152\bin\java.exe" -Dmaven.multiModuleProjectDirectory=C:\Users\Amrita\Documents\GitHub\simple-stock-market "-Dmaven.home=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" "-Dclassworlds.conf=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3\bin\m2.conf" "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=63676:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3\boot\plexus-classworlds.license" org.codehaus.classworlds.Launcher -Didea.version=2020.2.3 test
+"C:\Program Files\Java\jdk1.8.0_152\bin\java.exe" -Dmaven.multiModuleProjectDirectory=C:\Users\User\Documents\GitHub\simple-stock-market "-Dmaven.home=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" "-Dclassworlds.conf=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3\bin\m2.conf" "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=63676:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3\boot\plexus-classworlds.license" org.codehaus.classworlds.Launcher -Didea.version=2020.2.3 test
 [INFO] Scanning for projects...
 [INFO]
 [INFO] ---------------< com.gbce.equity:SuperSimpleStockMarket >---------------
@@ -19,10 +19,10 @@
 [INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ SuperSimpleStockMarket ---
 [INFO] Changes detected - recompiling the module!
 [WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
-[INFO] Compiling 2 source files to C:\Users\Amrita\Documents\GitHub\simple-stock-market\target\test-classes
+[INFO] Compiling 2 source files to C:\Users\User\Documents\GitHub\simple-stock-market\target\test-classes
 [INFO]
 [INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ SuperSimpleStockMarket ---
-[INFO] Surefire report directory: C:\Users\Amrita\Documents\GitHub\simple-stock-market\target\surefire-reports
+[INFO] Surefire report directory: C:\Users\User\Documents\GitHub\simple-stock-market\target\surefire-reports
 
 -------------------------------------------------------
  T E S T S
